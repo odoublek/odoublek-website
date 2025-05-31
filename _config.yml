@@ -22,7 +22,7 @@ title: Ozgur's Personal Website
 email: kayaozgurkaan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website, I'm Ozgur. Computer Science undergraduate mainly interested in Python. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/odoublek-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
